@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 80vh;
+    max-height: 100vh;
+}
+
+.play-btn{
+    padding: 10px 25px;
+}
+
+.flex-box{
+    display: flex;
+    justify-content: space-around;
+}
+.flex-box__item{
+    height:100%;
+    max-height: 50vh;
+}
+
+.result-1, .result-2{
+    padding: 0 50px;
+}
