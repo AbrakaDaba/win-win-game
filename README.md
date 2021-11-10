@@ -1,0 +1,3 @@
+# win-win-game
+An old game PAPER-STONE-SCISSORS...
+https://abrakadaba.github.io/win-win-game/
